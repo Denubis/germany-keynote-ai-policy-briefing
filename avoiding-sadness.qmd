@@ -185,11 +185,13 @@ A technology is:
 * It's great at rephrasing, unpacking, and framing tacit knowledge.
 * It just shouldn't be used to create, whole-cloth.
 
-## Data and privacy
+## Data and privacy {.smaller}
 
 > Data privacy implications - what parts of research can these tools be used for without SERIOUS data issues? Are there any models/terms of service that can be safely used within the research process? 
 > * Examples: if I want to use them to line edit an unpublished paper that includes research data from a collaborative project, do i need to ask everyone on the project for permission? 
 > * Which models will not store and henceforth own that unpublished data that I have given them?  
+
+## Data and privacy
 
 * Most, actually. It's just in the terms of service
 * Prefer API use to chatbot mode

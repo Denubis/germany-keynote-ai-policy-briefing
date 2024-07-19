@@ -62,7 +62,7 @@ A technology is:
 
 ### Technique matters. No one talks about technique.
 
-## Most people don't think about Generative AI correctly
+## Most people don't think about Generative AI correctly {.smaller}
 
 * They think of it as a search engine with access to facts (see ChatGPT is Bullshit [@hicks_chatgpt_2024])
 * They think that it "learns" by chatting (https://simonwillison.net/2024/May/29/training-not-chatting/)

@@ -159,5 +159,180 @@
     "title": "Calculator for Words Presentation, IACAP 2024 Eugene, OR",
     "section": "",
     "text": "Preprint\nPresentation\nCode"
+  },
+  {
+    "objectID": "avoiding-sadness.html#this-presentation-is-available-on-github",
+    "href": "avoiding-sadness.html#this-presentation-is-available-on-github",
+    "title": "Avoiding Sadness",
+    "section": "This presentation is available on github",
+    "text": "This presentation is available on github\nThis presentation is CC-BY, and available at https://github.com/Denubis/germany-keynote-ai-policy-briefing"
+  },
+  {
+    "objectID": "avoiding-sadness.html#who-am-i",
+    "href": "avoiding-sadness.html#who-am-i",
+    "title": "Avoiding Sadness",
+    "section": "Who am I?",
+    "text": "Who am I?\n\nDr Brian Ballsun-Stanton\nSolutions Architect (Digigital Humanities) for Faculty of Arts, Macquarie University\nBS and MS in Information Technology, Rochester Institute of Technology\nPhD in Philosophy of Data, UNSW Australia\nA bridge between technologists and academics\nThe AI person for the faculty."
+  },
+  {
+    "objectID": "avoiding-sadness.html#understanding-the-capabilities-of-technology-is-not-a-new-problem",
+    "href": "avoiding-sadness.html#understanding-the-capabilities-of-technology-is-not-a-new-problem",
+    "title": "Avoiding Sadness",
+    "section": "Understanding the capabilities of technology is not a new problem",
+    "text": "Understanding the capabilities of technology is not a new problem\n\nPray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out? (Babbage 1864)\n\n\nFor an LLM: the answer is YES.\n\nLarge language models (LLMs) are fundamentally different from search engines, functioning more as ‘vibe-machines’ than information retrieval systems. (Ballsun-Stanton and Hipólito 2024)"
+  },
+  {
+    "objectID": "avoiding-sadness.html#basic-philosophy-of-technology",
+    "href": "avoiding-sadness.html#basic-philosophy-of-technology",
+    "title": "Avoiding Sadness",
+    "section": "Basic philosophy of technology",
+    "text": "Basic philosophy of technology\nA technology is:\n\nA tool +\nA technique\nTo achieve a desired outcome (Ihde 1979)\n\nTechnique matters. No one talks about technique."
+  },
+  {
+    "objectID": "avoiding-sadness.html#motivation-and-aim",
+    "href": "avoiding-sadness.html#motivation-and-aim",
+    "title": "Avoiding Sadness",
+    "section": "Motivation and Aim",
+    "text": "Motivation and Aim\n\nFew folks put in the minimum 10 hours with a frontier model to understand capabilities (Mollick 2024)\nThese tools are powerful – do not point at foot, do not pull trigger\nThese tools are awful – they are not your plastic pal who is fun to be with.\n\nHow do we thread the needle?\nThis keynote is supposed to be the “positive” keynote."
+  },
+  {
+    "objectID": "avoiding-sadness.html#the-title-of-this-talk-isnt-actually-a-joke",
+    "href": "avoiding-sadness.html#the-title-of-this-talk-isnt-actually-a-joke",
+    "title": "Avoiding Sadness",
+    "section": "The title of this talk isn’t actually a joke",
+    "text": "The title of this talk isn’t actually a joke\n\nMy intro to LLM workshop could genuinely have the title “Avoiding Sadness”\nMany people have incorrect assumptions of what these tools are and do\nSadness, here, is the mismatch between reality and our expectations. It is likely, without thought and attention to detail."
+  },
+  {
+    "objectID": "avoiding-sadness.html#macquaries-guidance-note",
+    "href": "avoiding-sadness.html#macquaries-guidance-note",
+    "title": "Avoiding Sadness",
+    "section": "Macquarie’s guidance note",
+    "text": "Macquarie’s guidance note\nhttps://policies.mq.edu.au/download.php?associated=1&id=768&version=1\n\nResearchers are allowed to use it\nSupervisors must closely and actively supervise their postgraduate students when their students use it\nAcknowledgement of use (BUT NEVER CITATIONS) is required\nThere are narrow places where it is forbidden, for cause"
+  },
+  {
+    "objectID": "avoiding-sadness.html#allowed-use",
+    "href": "avoiding-sadness.html#allowed-use",
+    "title": "Avoiding Sadness",
+    "section": "Allowed use",
+    "text": "Allowed use\nAt the end of the day, when a researcher puts their name to their work, they own the consequences.\n\nThese tools manipulate words. They are not search engines.\nThe manipulation of words and the production of “vibes” is shockingly useful.\nThey need to consider which tools they use and how they use them.\nResearchers own the consequences of their judgement. Nothing has changed."
+  },
+  {
+    "objectID": "avoiding-sadness.html#postgraduate-use",
+    "href": "avoiding-sadness.html#postgraduate-use",
+    "title": "Avoiding Sadness",
+    "section": "Postgraduate use",
+    "text": "Postgraduate use\nUltimately, it is the supervisor’s fault if their student uses a generative AI in an incorrect way.\n\nActive supervision is just that: the student needs to engage within the guardrails and feedback of the supervisor\nThe supervisor cannot disclaim responsibility\nIf the student ignores the guardrails, it’s just like any other failure of candidacy."
+  },
+  {
+    "objectID": "avoiding-sadness.html#bad-outcomes",
+    "href": "avoiding-sadness.html#bad-outcomes",
+    "title": "Avoiding Sadness",
+    "section": "Bad outcomes",
+    "text": "Bad outcomes\n\nIt is not an author, it cannot be fired. Therefore, it cannot be cited or credited as a co-author. (It cannot take the blame.)\nThese tools are not presently capable of judgement or working with tacit knowledge. Using them for peer review or originating ethics applications are forbidden.\nCannot be used to wholly generate works and claim them for yourself."
+  },
+  {
+    "objectID": "avoiding-sadness.html#this-is-a-triumph",
+    "href": "avoiding-sadness.html#this-is-a-triumph",
+    "title": "Avoiding Sadness",
+    "section": "This is a triumph…",
+    "text": "This is a triumph…\n\nRe: LLMs represent “a triumph for the humanities” - can the humanities as they are now be said to triumph, or do we need to include much more knowledge about LLMs into humanities curricula in order to increase understanding of their ‘grammars’ before they can “triumph”? How would you address such changes within the curriculum?"
+  },
+  {
+    "objectID": "avoiding-sadness.html#invocations-are-magic",
+    "href": "avoiding-sadness.html#invocations-are-magic",
+    "title": "Avoiding Sadness",
+    "section": "Invocations are magic",
+    "text": "Invocations are magic\n\nWhat kind of knowledge system can we create around, how can we operate with the concept of “knowledge” around tools that are so powerful and so little understood? As you suggested with the term “grimoire”, for many people this will remain a little bit like “magic” - what does that do to our present understanding of knowledge and a knowable, scientifically understandable world that we are competent actors in?"
+  },
+  {
+    "objectID": "avoiding-sadness.html#power-imbalances",
+    "href": "avoiding-sadness.html#power-imbalances",
+    "title": "Avoiding Sadness",
+    "section": "Power imbalances",
+    "text": "Power imbalances\n\nShould – and how could – universities address power imbalances / knowledge asymmetries within LLMs? E. g. the majority of training data being in English / from US/Anglo perspectives, even if the service is being used in a different language?"
+  },
+  {
+    "objectID": "avoiding-sadness.html#whats-the-point-of-uni",
+    "href": "avoiding-sadness.html#whats-the-point-of-uni",
+    "title": "Avoiding Sadness",
+    "section": "What’s the point of uni?",
+    "text": "What’s the point of uni?\n\nDo you agree that the main role of universities is to teach students how to think critically? In this regard, how should AI technologies be incorporated into the study process so that they help rather than create obstacles when it comes to achieving this objective?"
+  },
+  {
+    "objectID": "avoiding-sadness.html#how-do-we-produce-new-knowledge",
+    "href": "avoiding-sadness.html#how-do-we-produce-new-knowledge",
+    "title": "Avoiding Sadness",
+    "section": "How do we produce new knowledge?",
+    "text": "How do we produce new knowledge?\n\nHow will AI generation impact human ability to produce new knowledge, particularly in social sciences?\n\n\nIt’s a tool. Powerful, dangerous, easily misunderstood, poorly used.\nWe’re looking at the edge of Kuhnian normal science.\nEmperor has no clothes situation."
+  },
+  {
+    "objectID": "avoiding-sadness.html#a-contradiction-of-use",
+    "href": "avoiding-sadness.html#a-contradiction-of-use",
+    "title": "Avoiding Sadness",
+    "section": "A contradiction of use",
+    "text": "A contradiction of use\n\nYou warned not to use LLMs for value judgements or ethics questions – but you have also used it to help with e. g. preparing ethics reviews. How do you resolve this?"
+  },
+  {
+    "objectID": "avoiding-sadness.html#data-and-privacy",
+    "href": "avoiding-sadness.html#data-and-privacy",
+    "title": "Avoiding Sadness",
+    "section": "Data and privacy",
+    "text": "Data and privacy\n\nData privacy implications - what parts of research can these tools be used for without SERIOUS data issues? Are there any models/terms of service that can be safely used within the research process? * Examples: if I want to use them to line edit an unpublished paper that includes research data from a collaborative project, do i need to ask everyone on the project for permission? * Which models will not store and henceforth own that unpublished data that I have given them?\n\n\nMost, actually. It’s just in the terms of service\nPrefer API use to chatbot mode\nRead the privacy policy and pay for them\nAbsolutely get permission from colleagues, just as you would any other research method or tool use.\nAnthropic is quite good around its (paid) terms of service."
+  },
+  {
+    "objectID": "avoiding-sadness.html#references",
+    "href": "avoiding-sadness.html#references",
+    "title": "Avoiding Sadness",
+    "section": "References",
+    "text": "References\n\n\n\n\n© 2024, License: CC-BY • https://github.com/Denubis/germany-keynote-ai-policy-briefing\n\n\n\n\nBabbage, Charles. 1864. “Passages from the Life of a Philosopher.” https://www.gutenberg.org/files/57532/57532-h/57532-h.htm.\n\n\nBallsun-Stanton, Brian, and Inês Hipólito. 2024. “Is the ’Calculator for Words’ analogy useful for communicating about LLMs?” Zenodo. https://doi.org/10.5281/zenodo.12602858.\n\n\nHicks, Michael Townsen, James Humphries, and Joe Slater. 2024. “ChatGPT Is Bullshit.” Ethics and Information Technology 26 (2): 38. https://doi.org/10.1007/s10676-024-09775-5.\n\n\nIhde, Don. 1979. “Heidegger’s Philosophy of Technology.” In Technics and Praxis, edited by Don Ihde, 103–29. Dordrecht: Springer Netherlands. https://doi.org/10.1007/978-94-009-9900-8_9.\n\n\nMollick, Ethan. 2024. Co-Intelligence: Living and Working with AI. New York, New York: Portfolio/Penguin."
+  },
+  {
+    "objectID": "avoiding-sadness.html#before-we-get-started",
+    "href": "avoiding-sadness.html#before-we-get-started",
+    "title": "Avoiding Sadness",
+    "section": "Before we get started",
+    "text": "Before we get started\n\nEveryone needs to go register and load up the free version of claude.ai Claude 3.5 Sonnet.\nLoad https://perplexity.vercel.app/ (128MB download)\nPlay with them during the session, interrupt when you find something interesting or surprising"
+  },
+  {
+    "objectID": "avoiding-sadness.html#most-people-dont-think-about-generative-ai-correctly",
+    "href": "avoiding-sadness.html#most-people-dont-think-about-generative-ai-correctly",
+    "title": "Avoiding Sadness",
+    "section": "Most people don’t think about Generative AI correctly",
+    "text": "Most people don’t think about Generative AI correctly\n\nThey think of it as a search engine with access to facts (see ChatGPT is Bullshit (Hicks, Humphries, and Slater 2024))\nThey think that it “learns” by chatting (https://simonwillison.net/2024/May/29/training-not-chatting/)\nThey see that it responds “I” and think that has meaning.\nThey believe the hype\nThey have used ChatGPT 3.5 once and gone “that’s boring.”\nThey believe the anti-AI hype"
+  },
+  {
+    "objectID": "avoiding-sadness.html#this-is-a-triumph-1",
+    "href": "avoiding-sadness.html#this-is-a-triumph-1",
+    "title": "Avoiding Sadness",
+    "section": "This is a triumph…",
+    "text": "This is a triumph…\n\nSuddenly, how you say something matters.\nKnowing something about something and asking the right questions will be the fundamental skills of the age (vinge_rainbows_2006?)\nOur present textual skills will serve us well: word use, context, source evaluation, critical thinking\nThis is an opportunity for triumph for the humanities at the same time as it’s an crisis for universities.\n\nKnowledge demonstration has been alienated from the student\nThe value of the university is in question\nEmployers are mistaking these things as opportunities for automation, rather than mechanisms for worker augmentation.\n\nThe dreaded word: workload.\nSample undergraduate unit policy"
+  },
+  {
+    "objectID": "avoiding-sadness.html#invocations-are-magic-1",
+    "href": "avoiding-sadness.html#invocations-are-magic-1",
+    "title": "Avoiding Sadness",
+    "section": "Invocations are magic",
+    "text": "Invocations are magic\n\nThey’re a year old. Give me a break.\nWe have a duty to educate, but also we – as those in the humanities – have the fundamental skills of use.\nMany people have a shallow understanding of computing. This is just one more opaque nail in the coffin.\nThey manipulate text. They have no relationship to knowledge at all. Tool + technique. We are responsible for technique and objective."
+  },
+  {
+    "objectID": "avoiding-sadness.html#power-imbalances-1",
+    "href": "avoiding-sadness.html#power-imbalances-1",
+    "title": "Avoiding Sadness",
+    "section": "Power imbalances",
+    "text": "Power imbalances\n\nThis question is a good question, because the assumptions illustrate a fundamentally wrong conception: knowledge-in-model. This is a trap.\nWe should not treat models as knowledge-having things. They are word-manipulating things.\nThe power imbalance is one of equity and access, not of training sets. (WolframRavenwolf shows German testing protocols)\nCorpus size matters, and the data is not english-only data. Larger models are better, even if the smaller german-only models do exist on huggingface."
+  },
+  {
+    "objectID": "avoiding-sadness.html#whats-the-point-of-uni-1",
+    "href": "avoiding-sadness.html#whats-the-point-of-uni-1",
+    "title": "Avoiding Sadness",
+    "section": "What’s the point of uni?",
+    "text": "What’s the point of uni?\n\nBegging the question.\nWe have multiple objectives. One of them will be to have students be able to judge when to use a tool, which tool to use, and to be proficient in its use.\nGenerative AI is a tool.\nThis also demonstrates the central catastrophe awaiting us."
+  },
+  {
+    "objectID": "avoiding-sadness.html#a-contradiction-of-use-1",
+    "href": "avoiding-sadness.html#a-contradiction-of-use-1",
+    "title": "Avoiding Sadness",
+    "section": "A contradiction of use",
+    "text": "A contradiction of use\n\n(Load actual use, in Claude)\nThe manipulation of text for plain text wording is not the same as the creation of text.\nIt’s great at rephrasing, unpacking, and framing tacit knowledge.\nIt just shouldn’t be used to create, whole-cloth."
   }
 ]

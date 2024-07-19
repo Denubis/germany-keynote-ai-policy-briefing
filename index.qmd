@@ -3,5 +3,5 @@ title: Avoiding Sadness, Research policy for Generative AI -- Futuring the Unive
 format: html
 ---
 
-* [Presentation](https://github.com/Denubis/germany-keynote-ai-policy-briefing)
+* [Presentation](https://denubis.github.io/germany-keynote-ai-policy-briefing/avoiding-sadness#/title-slide)
 * [Code](https://github.com/Denubis/germany-keynote-ai-policy-briefing)

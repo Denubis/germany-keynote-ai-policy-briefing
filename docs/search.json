@@ -1,178 +1,17 @@
 [
   {
-    "objectID": "calculators-for-words.html#this-paper-is-available-as-a-preprint",
-    "href": "calculators-for-words.html#this-paper-is-available-as-a-preprint",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "This paper is available as a preprint",
-    "text": "This paper is available as a preprint\nFeedback would be delightful.\n\n\n\n\n\ndoi.org/10.5281/zenodo.12602858\n\n\n\n\nThis presentation is CC-BY.\nCode available at https://github.com/Denubis/calculator-for-words-presentation\nPresentation available at: https://denubis.github.io/calculator-for-words-presentation/"
-  },
-  {
-    "objectID": "calculators-for-words.html#understanding-the-capabilities-of-technology-is-not-a-new-problem",
-    "href": "calculators-for-words.html#understanding-the-capabilities-of-technology-is-not-a-new-problem",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Understanding the capabilities of technology is not a new problem",
-    "text": "Understanding the capabilities of technology is not a new problem\n\nPray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out? (Babbage 1864)\n\n\nFor an LLM: the answer is YES.\n\nLarge language models (LLMs) are fundamentally different from search engines, functioning more as ‘vibe-machines’ than information retrieval systems. (Ballsun-Stanton and Hipólito 2024)"
-  },
-  {
-    "objectID": "calculators-for-words.html#motivation-and-aim",
-    "href": "calculators-for-words.html#motivation-and-aim",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Motivation and Aim",
-    "text": "Motivation and Aim\n\nWhy are we here: The need for effective LLM comprehension.\nIs the ‘calculator for words’ analogy the most effective one?\nHow do we teach, communicate, and write policy about these tools without effective analogies to communicate their major capabilities and limitations?"
-  },
-  {
-    "objectID": "calculators-for-words.html#our-goal",
-    "href": "calculators-for-words.html#our-goal",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Our goal",
-    "text": "Our goal\nFind an effective analogy to communicate LLM affordances to avoid error-prone usage patterns."
-  },
-  {
-    "objectID": "calculators-for-words.html#the-problem",
-    "href": "calculators-for-words.html#the-problem",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "The Problem",
-    "text": "The Problem\n\nToo many conflicting stories about “AI”\nAnthropomorphization: They respond using “I”\nSkeuomorphic lenses vs. understanding true limitations and capabilities"
-  },
-  {
-    "objectID": "calculators-for-words.html#willison-on-llms",
-    "href": "calculators-for-words.html#willison-on-llms",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Willison on LLMs",
-    "text": "Willison on LLMs\n\nOne of the most pervasive mistakes I see people using with large language model tools like ChatGPT is trying to use them as a search engine. … I like to think of language models like ChatGPT as a calculator for words. … Want them to work with specific facts? Paste those into the language model as part of your original prompt! (Willison 2023)"
-  },
-  {
-    "objectID": "calculators-for-words.html#unreliability-and-locus-of-control",
-    "href": "calculators-for-words.html#unreliability-and-locus-of-control",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Unreliability and Locus of Control",
-    "text": "Unreliability and Locus of Control\nThe analogy ‘calculator for words’:\n\nMoves locus of control to the user’s perspective\nUser input is primary, not the ‘creative’ output of the machine\nGrounding inputs to reduce confabulation\nMaps to prior affordances users expect"
-  },
-  {
-    "objectID": "calculators-for-words.html#difficulty-of-effective-use",
-    "href": "calculators-for-words.html#difficulty-of-effective-use",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Difficulty of Effective Use",
-    "text": "Difficulty of Effective Use\n\nUsing LLMs effectively is deceptively difficult\nRequires building an accurate mental model of capabilities and limitations\nUsers need to spend time with LLMs to understand their potential and pitfalls"
-  },
-  {
-    "objectID": "calculators-for-words.html#llms-vs.-search-engines",
-    "href": "calculators-for-words.html#llms-vs.-search-engines",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "LLMs vs. Search Engines",
-    "text": "LLMs vs. Search Engines\nArgument 2.1 (Modus ponens) (Ballsun-Stanton and Hipólito 2024):\nP1. If an AI system lacks inherent intentional agency in its core operation (token inference) and its outputs are primarily bounded by human-defined service layers, then it is fundamentally different from search engines that link to intentionally created content.\n\nP2. LLMs lack inherent intentional agency in their core operation (token inference), and their outputs are primarily determined by human-defined service layers (system prompts and post-hoc interactions applied to token inference).\n\n\nC. Therefore, LLMs are fundamentally different from search engines that link to intentionally created content."
-  },
-  {
-    "objectID": "calculators-for-words.html#buccis-response",
-    "href": "calculators-for-words.html#buccis-response",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Bucci’s Response",
-    "text": "Bucci’s Response\n\nTo put it differently, a calculator has a well-defined, well-scoped set of use cases, a well-defined, well-scoped user interface, and a set of well-understood and expected behaviors that occur in response to manipulations of that interface. … Large language models, when used to drive chatbots or similar interactive text-generation systems, have none of those qualities. They have an open-ended set of unspecified use cases. (Bucci 2023)"
-  },
-  {
-    "objectID": "calculators-for-words.html#determinism-and-affordances",
-    "href": "calculators-for-words.html#determinism-and-affordances",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Determinism and Affordances",
-    "text": "Determinism and Affordances\nTheorem 3.1 (Ballsun-Stanton and Hipólito 2024):\nA calculator, upon receiving invalid input, will give the user an error. A LLM, upon receiving invalid input, will give the user a valid response.\n\nLLMs lack the deterministic nature of calculators\nThe interface of LLMs is deceptively simple, hiding complex and often unpredictable behavior\nAffordances of LLMs are vastly different from those of calculators"
-  },
-  {
-    "objectID": "calculators-for-words.html#chatgpt-is-bullshit-and-appropriateness-of-use",
-    "href": "calculators-for-words.html#chatgpt-is-bullshit-and-appropriateness-of-use",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "“ChatGPT is Bullshit” and Appropriateness of Use",
-    "text": "“ChatGPT is Bullshit” and Appropriateness of Use\n\nLLMs generate text without adherence to an underlying reality (Hicks, Humphries, and Slater 2024)\nOutput is a stream of tokens with the highest statistical likelihood, appearing as coherent thought\nUnlike calculators, which have clear appropriate use cases, LLMs’ appropriate applications are still being defined\nTherefore: The analogy fails to capture the open-ended nature of LLM interactions and outputs"
-  },
-  {
-    "objectID": "calculators-for-words.html#the-pragmatics-of-experience",
-    "href": "calculators-for-words.html#the-pragmatics-of-experience",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "The Pragmatics of Experience",
-    "text": "The Pragmatics of Experience\n\nWhen I speak in front of groups and ask them to raise their hands if they used the free version of ChatGPT, almost every hand goes up. When I ask the same group how many use GPT-4, almost no one raises their hand. I increasingly think the decision of OpenAI to make the “bad” AI free is causing people to miss why AI seems like such a huge deal to a minority of people that use advanced systems and elicits a shrug from everyone else. (Mollick 2023)\n\n\nThe gap in user experience between different LLM versions affects perception and understanding\nThis disparity influences how we communicate about and conceptualize LLMs"
-  },
-  {
-    "objectID": "calculators-for-words.html#evaluating-the-calculator-for-words-analogy",
-    "href": "calculators-for-words.html#evaluating-the-calculator-for-words-analogy",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Evaluating the ‘Calculator for Words’ Analogy",
-    "text": "Evaluating the ‘Calculator for Words’ Analogy\nIntuitions:\n\nThe analogy falls apart on deeper inspection\nLacks useful ontological or epistemological similarities with LLMs"
-  },
-  {
-    "objectID": "calculators-for-words.html#evaluating-the-calculator-for-words-analogy-1",
-    "href": "calculators-for-words.html#evaluating-the-calculator-for-words-analogy-1",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Evaluating the ‘Calculator for Words’ Analogy",
-    "text": "Evaluating the ‘Calculator for Words’ Analogy\nPedagogical utility:\n\nUseful for teaching attention to context window and token inference\nHelps adjust audiences’ epistemic orientation to LLM interfaces"
-  },
-  {
-    "objectID": "calculators-for-words.html#evaluating-the-calculator-for-words-analogy-2",
-    "href": "calculators-for-words.html#evaluating-the-calculator-for-words-analogy-2",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Evaluating the ‘Calculator for Words’ Analogy",
-    "text": "Evaluating the ‘Calculator for Words’ Analogy\nComprehensibility:\n\nRequires specific interpretation to be useful\nMay lead to misunderstandings if taken too literally"
-  },
-  {
-    "objectID": "calculators-for-words.html#maps-of-no-territory-a-new-analogy",
-    "href": "calculators-for-words.html#maps-of-no-territory-a-new-analogy",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Maps of No Territory: A New Analogy",
-    "text": "Maps of No Territory: A New Analogy\n\nInspired by Borges’ “On Exactitude in Science” (Borges and Hurley 1998)\nLLMs as maps without a corresponding territory\nAims to provide more nuanced intuitions for general audiences\n\n\nLLMs, as our proposed map-analogues, generate language based on statistical relationships learned from vast amounts of text, creating abstract representations of language patterns and structures. (Ballsun-Stanton and Hipólito 2024)"
-  },
-  {
-    "objectID": "calculators-for-words.html#traces-on-maps",
-    "href": "calculators-for-words.html#traces-on-maps",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Traces on maps",
-    "text": "Traces on maps\n\n“Training” an LLM:\n\nit stores the representations of the statistical relationships between tokens.\nIn our map-metaphor, we can call them traces.\n\nThe relationships stored in the model’s weights are a map of no territory.\n\nA trace is a correspondence of a sign/token output by an LLM which has a referent useful to the user."
-  },
-  {
-    "objectID": "calculators-for-words.html#llms-as-maps-of-no-territory",
-    "href": "calculators-for-words.html#llms-as-maps-of-no-territory",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "LLMs as Maps of No Territory",
-    "text": "LLMs as Maps of No Territory\nArgument 5.1 (Modus ponens) (Ballsun-Stanton and Hipólito 2024):\nP1. If LLMs generate language based on abstract representations without direct access to real-world referents, then LLMs are like maps of no territory.\n\nP2. LLMs generate language based on abstract representations without direct access to real-world referents.\n\n\nC. Therefore, LLMs are like maps of no territory."
-  },
-  {
-    "objectID": "calculators-for-words.html#effective-interaction-and-navigation",
-    "href": "calculators-for-words.html#effective-interaction-and-navigation",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Effective Interaction and Navigation",
-    "text": "Effective Interaction and Navigation\n\nInteracting with LLMs is like being a librarian in Borges’ Infinite Library\nRequires skillful navigation to find meaningful content\nThree levels of (mental) mapping:\n\nExpertise Map: User’s foundational understanding\nIncomplete but Sufficient Map: Framework for effective engagement\nMap of a Map of no Territory: Abstract representations within the LLM"
-  },
-  {
-    "objectID": "calculators-for-words.html#conclusion",
-    "href": "calculators-for-words.html#conclusion",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "Conclusion",
-    "text": "Conclusion\n\nThe ‘calculator for words’ analogy serves as an effective negative heuristic\n\nDiscourages treating LLMs as search engines or fact repositories\nFalls short in providing positive intuition for effective LLM utilization\n\n‘Maps of no territory’ offers a more comprehensive understanding\n\nCaptures the nature, capabilities, and limitations of LLMs\nEncourages more informed and responsible engagement\n\nEffective use of LLMs requires:\n\nSkillful interpretation of traces provided by LLM interaction\nDeveloping a framework for effective engagement\nUnderstanding that outputs reflect training data, not direct representations of reality"
-  },
-  {
-    "objectID": "calculators-for-words.html#references",
-    "href": "calculators-for-words.html#references",
-    "title": "Is the ‘Calculator for Words’ analogy useful for communicating about LLMs?",
-    "section": "References",
-    "text": "References\n\n\n\n\nhttps://doi.org/10.5281/zenodo.12602858 • © 2024, License: CC-BY • https://denubis.github.io/calculator-for-words-presentation/\n\n\n\n\nBabbage, Charles. 1864. “Passages from the Life of a Philosopher.” https://www.gutenberg.org/files/57532/57532-h/57532-h.htm.\n\n\nBallsun-Stanton, Brian, and Inês Hipólito. 2024. “Is the ’Calculator for Words’ analogy useful for communicating about LLMs?” Zenodo. https://doi.org/10.5281/zenodo.12602858.\n\n\nBorges, Jorge Luis, and Andrew Hurley. 1998. Collected Fictions. Penguin Classics Deluxe Edition. New York, NY: Penguin Books.\n\n\nBucci, Anthony. 2023. “Word Calculators Don’t Add Up.” https://bucci.onl/notes/Word-calculators-dont-add-up.\n\n\nHicks, Michael Townsen, James Humphries, and Joe Slater. 2024. “ChatGPT Is Bullshit.” Ethics and Information Technology 26 (2): 38. https://doi.org/10.1007/s10676-024-09775-5.\n\n\nMollick, Ethan. 2023. “An Opinionated Guide to Which AI to Use: ChatGPT Anniversary Edition.” https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai.\n\n\nWillison, Simon. 2023. “Think of Language Models Like ChatGPT as a ‘Calculator for Words’.” Simon Willison’s Weblog. https://simonwillison.net/2023/Apr/2/calculator-for-words/."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Calculator for Words Presentation, IACAP 2024 Eugene, OR",
-    "section": "",
-    "text": "Preprint\nPresentation\nCode"
-  },
-  {
-    "objectID": "avoiding-sadness.html#this-presentation-is-available-on-github",
-    "href": "avoiding-sadness.html#this-presentation-is-available-on-github",
-    "title": "Avoiding Sadness",
-    "section": "This presentation is available on github",
-    "text": "This presentation is available on github\nThis presentation is CC-BY, and available at https://github.com/Denubis/germany-keynote-ai-policy-briefing"
-  },
-  {
     "objectID": "avoiding-sadness.html#who-am-i",
     "href": "avoiding-sadness.html#who-am-i",
     "title": "Avoiding Sadness",
     "section": "Who am I?",
     "text": "Who am I?\n\nDr Brian Ballsun-Stanton\nSolutions Architect (Digigital Humanities) for Faculty of Arts, Macquarie University\nBS and MS in Information Technology, Rochester Institute of Technology\nPhD in Philosophy of Data, UNSW Australia\nA bridge between technologists and academics\nThe AI person for the faculty."
+  },
+  {
+    "objectID": "avoiding-sadness.html#before-we-get-started",
+    "href": "avoiding-sadness.html#before-we-get-started",
+    "title": "Avoiding Sadness",
+    "section": "Before we get started",
+    "text": "Before we get started\n\nEveryone needs to go register and load up the free version of claude.ai Claude 3.5 Sonnet.\nLoad https://perplexity.vercel.app/ (128MB download)\nPlay with them during the session, interrupt when you find something interesting or surprising"
   },
   {
     "objectID": "avoiding-sadness.html#understanding-the-capabilities-of-technology-is-not-a-new-problem",
@@ -182,6 +21,13 @@
     "text": "Understanding the capabilities of technology is not a new problem\n\nPray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out? (Babbage 1864)\n\n\nFor an LLM: the answer is YES.\n\nLarge language models (LLMs) are fundamentally different from search engines, functioning more as ‘vibe-machines’ than information retrieval systems. (Ballsun-Stanton and Hipólito 2024)"
   },
   {
+    "objectID": "avoiding-sadness.html#motivation-and-aim",
+    "href": "avoiding-sadness.html#motivation-and-aim",
+    "title": "Avoiding Sadness",
+    "section": "Motivation and Aim",
+    "text": "Motivation and Aim\n\nFew folks put in the minimum 10 hours with a frontier model to understand capabilities (Mollick 2024)\nThese tools are powerful – do not point at foot, do not pull trigger\nThese tools are awful – they are not your plastic pal who is fun to be with.\n\nHow do we thread the needle?\nThis keynote is supposed to be the “positive” keynote."
+  },
+  {
     "objectID": "avoiding-sadness.html#basic-philosophy-of-technology",
     "href": "avoiding-sadness.html#basic-philosophy-of-technology",
     "title": "Avoiding Sadness",
@@ -189,11 +35,11 @@
     "text": "Basic philosophy of technology\nA technology is:\n\nA tool +\nA technique\nTo achieve a desired outcome (Ihde 1979)\n\nTechnique matters. No one talks about technique."
   },
   {
-    "objectID": "avoiding-sadness.html#motivation-and-aim",
-    "href": "avoiding-sadness.html#motivation-and-aim",
+    "objectID": "avoiding-sadness.html#most-people-dont-think-about-generative-ai-correctly",
+    "href": "avoiding-sadness.html#most-people-dont-think-about-generative-ai-correctly",
     "title": "Avoiding Sadness",
-    "section": "Motivation and Aim",
-    "text": "Motivation and Aim\n\nFew folks put in the minimum 10 hours with a frontier model to understand capabilities (Mollick 2024)\nThese tools are powerful – do not point at foot, do not pull trigger\nThese tools are awful – they are not your plastic pal who is fun to be with.\n\nHow do we thread the needle?\nThis keynote is supposed to be the “positive” keynote."
+    "section": "Most people don’t think about Generative AI correctly",
+    "text": "Most people don’t think about Generative AI correctly\n\nThey think of it as a search engine with access to facts (see ChatGPT is Bullshit (Hicks, Humphries, and Slater 2024))\nThey think that it “learns” by chatting (https://simonwillison.net/2024/May/29/training-not-chatting/)\nThey see that it responds “I” and think that has meaning.\nThey believe the hype\nThey have used ChatGPT 3.5 once and gone “that’s boring.”\nThey believe the anti-AI hype"
   },
   {
     "objectID": "avoiding-sadness.html#the-title-of-this-talk-isnt-actually-a-joke",
@@ -238,11 +84,25 @@
     "text": "This is a triumph…\n\nRe: LLMs represent “a triumph for the humanities” - can the humanities as they are now be said to triumph, or do we need to include much more knowledge about LLMs into humanities curricula in order to increase understanding of their ‘grammars’ before they can “triumph”? How would you address such changes within the curriculum?"
   },
   {
+    "objectID": "avoiding-sadness.html#this-is-a-triumph-1",
+    "href": "avoiding-sadness.html#this-is-a-triumph-1",
+    "title": "Avoiding Sadness",
+    "section": "This is a triumph…",
+    "text": "This is a triumph…\n\nSuddenly, how you say something matters.\nKnowing something about something and asking the right questions will be the fundamental skills of the age (Vinge 2006)\nOur present textual skills will serve us well: word use, context, source evaluation, critical thinking\nThis is an opportunity for triumph for the humanities at the same time as it’s an crisis for universities.\n\nKnowledge demonstration has been alienated from the student\nThe value of the university is in question\nEmployers are mistaking these things as opportunities for automation, rather than mechanisms for worker augmentation.\n\nThe dreaded word: workload.\nSample undergraduate unit policy"
+  },
+  {
     "objectID": "avoiding-sadness.html#invocations-are-magic",
     "href": "avoiding-sadness.html#invocations-are-magic",
     "title": "Avoiding Sadness",
     "section": "Invocations are magic",
     "text": "Invocations are magic\n\nWhat kind of knowledge system can we create around, how can we operate with the concept of “knowledge” around tools that are so powerful and so little understood? As you suggested with the term “grimoire”, for many people this will remain a little bit like “magic” - what does that do to our present understanding of knowledge and a knowable, scientifically understandable world that we are competent actors in?"
+  },
+  {
+    "objectID": "avoiding-sadness.html#invocations-are-magic-1",
+    "href": "avoiding-sadness.html#invocations-are-magic-1",
+    "title": "Avoiding Sadness",
+    "section": "Invocations are magic",
+    "text": "Invocations are magic\n\nThey’re a year old. Give me a break.\nWe have a duty to educate, but also we – as those in the humanities – have the fundamental skills of use.\nMany people have a shallow understanding of computing. This is just one more opaque nail in the coffin.\nThey manipulate text. They have no relationship to knowledge at all. Tool + technique. We are responsible for technique and objective."
   },
   {
     "objectID": "avoiding-sadness.html#power-imbalances",
@@ -252,11 +112,25 @@
     "text": "Power imbalances\n\nShould – and how could – universities address power imbalances / knowledge asymmetries within LLMs? E. g. the majority of training data being in English / from US/Anglo perspectives, even if the service is being used in a different language?"
   },
   {
+    "objectID": "avoiding-sadness.html#power-imbalances-1",
+    "href": "avoiding-sadness.html#power-imbalances-1",
+    "title": "Avoiding Sadness",
+    "section": "Power imbalances",
+    "text": "Power imbalances\n\nThis question is a good question, because the assumptions illustrate a fundamentally wrong conception: knowledge-in-model. This is a trap.\nWe should not treat models as knowledge-having things. They are word-manipulating things.\nThe power imbalance is one of equity and access, not of training sets. (WolframRavenwolf shows German testing protocols)\nCorpus size matters, and the data is not english-only data. Larger models are better, even if the smaller german-only models do exist on huggingface."
+  },
+  {
     "objectID": "avoiding-sadness.html#whats-the-point-of-uni",
     "href": "avoiding-sadness.html#whats-the-point-of-uni",
     "title": "Avoiding Sadness",
     "section": "What’s the point of uni?",
     "text": "What’s the point of uni?\n\nDo you agree that the main role of universities is to teach students how to think critically? In this regard, how should AI technologies be incorporated into the study process so that they help rather than create obstacles when it comes to achieving this objective?"
+  },
+  {
+    "objectID": "avoiding-sadness.html#whats-the-point-of-uni-1",
+    "href": "avoiding-sadness.html#whats-the-point-of-uni-1",
+    "title": "Avoiding Sadness",
+    "section": "What’s the point of uni?",
+    "text": "What’s the point of uni?\n\nBegging the question.\nWe have multiple objectives. One of them will be to have students be able to judge when to use a tool, which tool to use, and to be proficient in its use.\nGenerative AI is a tool.\nThis also demonstrates the central catastrophe awaiting us."
   },
   {
     "objectID": "avoiding-sadness.html#how-do-we-produce-new-knowledge",
@@ -273,6 +147,13 @@
     "text": "A contradiction of use\n\nYou warned not to use LLMs for value judgements or ethics questions – but you have also used it to help with e. g. preparing ethics reviews. How do you resolve this?"
   },
   {
+    "objectID": "avoiding-sadness.html#a-contradiction-of-use-1",
+    "href": "avoiding-sadness.html#a-contradiction-of-use-1",
+    "title": "Avoiding Sadness",
+    "section": "A contradiction of use",
+    "text": "A contradiction of use\n\n(Load actual use, in Claude)\nThe manipulation of text for plain text wording is not the same as the creation of text.\nIt’s great at rephrasing, unpacking, and framing tacit knowledge.\nIt just shouldn’t be used to create, whole-cloth."
+  },
+  {
     "objectID": "avoiding-sadness.html#data-and-privacy",
     "href": "avoiding-sadness.html#data-and-privacy",
     "title": "Avoiding Sadness",
@@ -284,55 +165,13 @@
     "href": "avoiding-sadness.html#references",
     "title": "Avoiding Sadness",
     "section": "References",
-    "text": "References\n\n\n\n\n© 2024, License: CC-BY • https://github.com/Denubis/germany-keynote-ai-policy-briefing\n\n\n\n\nBabbage, Charles. 1864. “Passages from the Life of a Philosopher.” https://www.gutenberg.org/files/57532/57532-h/57532-h.htm.\n\n\nBallsun-Stanton, Brian, and Inês Hipólito. 2024. “Is the ’Calculator for Words’ analogy useful for communicating about LLMs?” Zenodo. https://doi.org/10.5281/zenodo.12602858.\n\n\nHicks, Michael Townsen, James Humphries, and Joe Slater. 2024. “ChatGPT Is Bullshit.” Ethics and Information Technology 26 (2): 38. https://doi.org/10.1007/s10676-024-09775-5.\n\n\nIhde, Don. 1979. “Heidegger’s Philosophy of Technology.” In Technics and Praxis, edited by Don Ihde, 103–29. Dordrecht: Springer Netherlands. https://doi.org/10.1007/978-94-009-9900-8_9.\n\n\nMollick, Ethan. 2024. Co-Intelligence: Living and Working with AI. New York, New York: Portfolio/Penguin."
+    "text": "References\n\n\n\n\n© 2024, License: CC-BY • https://github.com/Denubis/germany-keynote-ai-policy-briefing\n\n\n\n\nBabbage, Charles. 1864. “Passages from the Life of a Philosopher.” https://www.gutenberg.org/files/57532/57532-h/57532-h.htm.\n\n\nBallsun-Stanton, Brian, and Inês Hipólito. 2024. “Is the ’Calculator for Words’ analogy useful for communicating about LLMs?” Zenodo. https://doi.org/10.5281/zenodo.12602858.\n\n\nHicks, Michael Townsen, James Humphries, and Joe Slater. 2024. “ChatGPT Is Bullshit.” Ethics and Information Technology 26 (2): 38. https://doi.org/10.1007/s10676-024-09775-5.\n\n\nIhde, Don. 1979. “Heidegger’s Philosophy of Technology.” In Technics and Praxis, edited by Don Ihde, 103–29. Dordrecht: Springer Netherlands. https://doi.org/10.1007/978-94-009-9900-8_9.\n\n\nMollick, Ethan. 2024. Co-Intelligence: Living and Working with AI. New York, New York: Portfolio/Penguin.\n\n\nVinge, Vernor. 2006. Rainbows End. 1st ed. New York: Tor."
   },
   {
-    "objectID": "avoiding-sadness.html#before-we-get-started",
-    "href": "avoiding-sadness.html#before-we-get-started",
-    "title": "Avoiding Sadness",
-    "section": "Before we get started",
-    "text": "Before we get started\n\nEveryone needs to go register and load up the free version of claude.ai Claude 3.5 Sonnet.\nLoad https://perplexity.vercel.app/ (128MB download)\nPlay with them during the session, interrupt when you find something interesting or surprising"
-  },
-  {
-    "objectID": "avoiding-sadness.html#most-people-dont-think-about-generative-ai-correctly",
-    "href": "avoiding-sadness.html#most-people-dont-think-about-generative-ai-correctly",
-    "title": "Avoiding Sadness",
-    "section": "Most people don’t think about Generative AI correctly",
-    "text": "Most people don’t think about Generative AI correctly\n\nThey think of it as a search engine with access to facts (see ChatGPT is Bullshit (Hicks, Humphries, and Slater 2024))\nThey think that it “learns” by chatting (https://simonwillison.net/2024/May/29/training-not-chatting/)\nThey see that it responds “I” and think that has meaning.\nThey believe the hype\nThey have used ChatGPT 3.5 once and gone “that’s boring.”\nThey believe the anti-AI hype"
-  },
-  {
-    "objectID": "avoiding-sadness.html#this-is-a-triumph-1",
-    "href": "avoiding-sadness.html#this-is-a-triumph-1",
-    "title": "Avoiding Sadness",
-    "section": "This is a triumph…",
-    "text": "This is a triumph…\n\nSuddenly, how you say something matters.\nKnowing something about something and asking the right questions will be the fundamental skills of the age (vinge_rainbows_2006?)\nOur present textual skills will serve us well: word use, context, source evaluation, critical thinking\nThis is an opportunity for triumph for the humanities at the same time as it’s an crisis for universities.\n\nKnowledge demonstration has been alienated from the student\nThe value of the university is in question\nEmployers are mistaking these things as opportunities for automation, rather than mechanisms for worker augmentation.\n\nThe dreaded word: workload.\nSample undergraduate unit policy"
-  },
-  {
-    "objectID": "avoiding-sadness.html#invocations-are-magic-1",
-    "href": "avoiding-sadness.html#invocations-are-magic-1",
-    "title": "Avoiding Sadness",
-    "section": "Invocations are magic",
-    "text": "Invocations are magic\n\nThey’re a year old. Give me a break.\nWe have a duty to educate, but also we – as those in the humanities – have the fundamental skills of use.\nMany people have a shallow understanding of computing. This is just one more opaque nail in the coffin.\nThey manipulate text. They have no relationship to knowledge at all. Tool + technique. We are responsible for technique and objective."
-  },
-  {
-    "objectID": "avoiding-sadness.html#power-imbalances-1",
-    "href": "avoiding-sadness.html#power-imbalances-1",
-    "title": "Avoiding Sadness",
-    "section": "Power imbalances",
-    "text": "Power imbalances\n\nThis question is a good question, because the assumptions illustrate a fundamentally wrong conception: knowledge-in-model. This is a trap.\nWe should not treat models as knowledge-having things. They are word-manipulating things.\nThe power imbalance is one of equity and access, not of training sets. (WolframRavenwolf shows German testing protocols)\nCorpus size matters, and the data is not english-only data. Larger models are better, even if the smaller german-only models do exist on huggingface."
-  },
-  {
-    "objectID": "avoiding-sadness.html#whats-the-point-of-uni-1",
-    "href": "avoiding-sadness.html#whats-the-point-of-uni-1",
-    "title": "Avoiding Sadness",
-    "section": "What’s the point of uni?",
-    "text": "What’s the point of uni?\n\nBegging the question.\nWe have multiple objectives. One of them will be to have students be able to judge when to use a tool, which tool to use, and to be proficient in its use.\nGenerative AI is a tool.\nThis also demonstrates the central catastrophe awaiting us."
-  },
-  {
-    "objectID": "avoiding-sadness.html#a-contradiction-of-use-1",
-    "href": "avoiding-sadness.html#a-contradiction-of-use-1",
-    "title": "Avoiding Sadness",
-    "section": "A contradiction of use",
-    "text": "A contradiction of use\n\n(Load actual use, in Claude)\nThe manipulation of text for plain text wording is not the same as the creation of text.\nIt’s great at rephrasing, unpacking, and framing tacit knowledge.\nIt just shouldn’t be used to create, whole-cloth."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Avoiding Sadness, Research policy for Generative AI – Futuring the University at JLU",
+    "section": "",
+    "text": "Presentation\nCode"
   }
 ]

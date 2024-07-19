@@ -1,0 +1,148 @@
+---
+title: "Avoiding Sadness"
+subtitle: "Research policy for Generative AI"
+author: 
+    - name: "Dr Brian Ballsun-Stanton"
+      email: brian.ballsun-stanton@mq.edu.au
+      orcid: "0000-0003-4932-7912"
+      affiliations:
+        - name: "Macquarie University"
+bibliography: references.bib
+---
+
+# Introduction
+
+## This presentation is available on github
+
+This presentation is CC-BY, and available at https://github.com/Denubis/germany-keynote-ai-policy-briefing
+
+## Who am I?
+
+* Dr Brian Ballsun-Stanton
+* Solutions Architect (Digigital Humanities) for Faculty of Arts, Macquarie University
+* BS and MS in Information Technology, Rochester Institute of Technology
+* PhD in Philosophy of Data, UNSW Australia
+* A bridge between technologists and academics
+* The AI person for the faculty.
+
+# Motivation
+
+## Understanding the capabilities of technology is not a new problem
+
+> Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out? [@babbage_passages_1864]
+
+. . .
+
+### For an LLM: the answer is **YES**. 
+
+> Large language models (LLMs) are fundamentally different from search engines, functioning more as 'vibe-machines' than information retrieval systems. [@ballsun_stanton_2024_12602858]
+
+
+## Basic philosophy of technology {.incremental}
+
+A technology is:
+
+* A tool +
+* A technique
+* To achieve a desired outcome
+
+[@ihdeHeideggerPhilosophyTechnology1979]
+
+## Motivation and Aim {.incremental}
+
+- Few folks put in the minimum 10 hours with a frontier model to understand capabilities [@mollickCointelligenceLivingWorking2024]
+- These tools are powerful -- do not point at foot, do not pull trigger
+- These tools are awful -- they are not your plastic pal who is fun to be with.
+
+How do we thread the needle?
+
+This keynote is supposed to be the "positive" keynote.
+
+# Avoiding Sadness
+
+## The title of this talk isn't actually a joke
+
+* My intro to LLM workshop could genuinely have the title "Avoiding Sadness"
+* Many people have incorrect assumptions of what these tools are and do
+* Sadness, here, is the mismatch between reality and our expectations. It is likely, without thought and attention to detail.
+
+## Macquarie's guidance note
+
+[https://policies.mq.edu.au/download.php?associated=1&id=768&version=1]
+
+* Researchers are allowed to use it
+* Supervisors must closely and actively supervise their postgraduate students when their students use it
+* Acknowledgement of use (BUT NEVER CITATIONS) is required
+* There are narrow places where it is forbidden, for cause
+
+## Allowed use {.incremental}
+
+### At the end of the day, when a researcher puts their name to their work, they own the consequences.
+
+* These tools *manipulate* words. They are not search engines.
+* The manipulation of words and the production of "vibes" is shockingly useful.
+* They need to consider which tools they use and how they use them.
+* Researchers own the consequences of their judgement. **Nothing has changed.**
+
+## Postgraduate use 
+
+### Ultimately, it is the supervisor's fault if their student uses a generative AI in an incorrect way.
+
+* Active supervision is just that: the student needs to engage within the guardrails and feedback of the supervisor
+* The supervisor cannot disclaim responsibility
+* If the student ignores the guardrails, it's just like any other failure of candidacy.
+
+## Bad outcomes
+
+* It is not an author, it cannot be fired. Therefore, it cannot be cited or credited as a co-author. (It cannot take the blame.)
+* These tools are not presently capable of judgement or working with tacit knowledge. Using them for peer review or originating ethics applications are forbidden.
+* Cannot be used to wholly generate works and claim them for yourself.
+
+
+
+# Prepared questions from the audience
+
+## This is a triumph... {.incremental}
+
+> Re: LLMs represent "a triumph for the humanities" - can the humanities as they are now be said to triumph, or do we need to include much more knowledge about LLMs into humanities curricula in order to increase understanding of their ‘grammars’ before they can “triumph”? How would you address such changes within the curriculum? 
+
+* Suddenly, how you say something matters.
+* Knowing something about something and asking the right questions will be the fundamental skills of the age [@vingeRainbowsEnd2006]
+* Our present textual skills will serve us well: word use, context, source evaluation, critical thinking
+* This is an *opportunity* for triumph for the humanities at the same time as it's an crisis for universities. 
+  * Knowledge demonstration has been alienated from the student
+  * The value of the univeristy is in question
+  * Employers are mistaking these things as opportunities for automation, rather than mechanisms for worker augmentation.
+* The dreaded word: workload.
+
+[https://zenodo.org/records/10916388] - Sample undergraduate unit policy
+
+## Invocations are magic
+
+> What kind of knowledge system can we create around, how can we operate with the concept of "knowledge" around tools that are so powerful and so little understood? As you suggested with the term "grimoire", for many people this will remain a little bit like "magic" - what does that do to our present understanding of knowledge and a knowable, scientifically understandable world that we are competent actors in? 
+
+## Power imbalances
+
+> Should – and how could – universities address power imbalances / knowledge asymmetries within LLMs? E. g. the majority of training data being in English / from US/Anglo perspectives, even if the service is being used in a different language? 
+
+## What's the point of uni?
+
+> Do you agree that the main role of universities is to teach students how to think critically? In this regard, how should AI technologies be incorporated into the study process so that they help rather than create obstacles when it comes to achieving this objective? 
+
+## How do we produce new knowledge?
+
+> How will AI generation impact human ability to produce new knowledge, particularly in social sciences?  
+
+## A contradiction of use
+
+> You warned not to use LLMs for value judgements or ethics questions – but you have also used it to help with e. g.  preparing ethics reviews. How do you resolve this? 
+
+## Data and privacy
+
+> Data privacy implications - what parts of research can these tools be used for without SERIOUS data issues? Are there any models/terms of service that can be safely used within the research process? 
+
+> * Examples: if I want to use them to line edit an unpublished paper that includes research data from a collaborative project, do i need to ask everyone on the project for permission? 
+> * Which models will not store and henceforth own that unpublished data that I have given them?  
+
+
+## References

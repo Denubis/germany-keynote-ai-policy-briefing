@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: docs/
+
+format: 
+  revealjs:
+    theme: simple
+    logo: "Images/MQ_INT_HOR_RGB_POS.jpg"
+    footer: "https://doi.org/10.5281/zenodo.12602858 &bull; &copy; 2024, License: CC-BY &bull; https://denubis.github.io/calculator-for-words-presentation/"
+
+  
+  beamer: 
+    aspectratio: 169
+
+
+    

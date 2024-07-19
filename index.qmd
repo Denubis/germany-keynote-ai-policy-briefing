@@ -1,0 +1,8 @@
+---
+title: Calculator for Words Presentation, IACAP 2024 Eugene, OR
+format: html
+---
+
+* [Preprint](https://zenodo.org/records/12602858)
+* [Presentation](https://denubis.github.io/calculator-for-words-presentation/calculators-for-words.html#/title-slide)
+* [Code](https://github.com/Denubis/calculator-for-words-presentation)
